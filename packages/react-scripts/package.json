@@ -1,6 +1,6 @@
 {
   "name": "@apiep/react-scripts",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Configuration and scripts for Create React App.",
   "repository": "apiep/create-react-app",
   "license": "BSD-3-Clause",
